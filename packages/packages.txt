@@ -1,0 +1,21 @@
+npm i sqlite
+      discord.js
+      node.js
+      node-fetch
+      express
+      youtube-sr
+      ytdl-core
+      discord-ytdl-core
+      soundcloud-downloader
+      simple-youtube-api
+      discord.js-commando
+      quick.db
+      ffmpeg-static
+      lyrics-finder
+      got
+      string-progressbar
+      moment
+      figlet
+      cheerio
+      @discordjs/opus
+      array.prototype.move
