@@ -1,0 +1,7 @@
+{
+  "TOKEN": "No.",
+  "PREFIX": "nc!", /// can be changed either here or by bot command ///
+  "approveemoji": "✅",
+  "denyemoji": "🚫",
+  "erroremoji": "️❗"
+}
